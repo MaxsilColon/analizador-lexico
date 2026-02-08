@@ -9,6 +9,8 @@ src/generated/
 # JAR files
 *.jar
 !lib/*.jar
+lib/*.zip
+
 
 # IDE files
 .idea/
